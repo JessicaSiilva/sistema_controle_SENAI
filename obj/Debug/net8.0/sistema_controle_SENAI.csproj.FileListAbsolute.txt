@@ -1,0 +1,4 @@
+C:\Users\Francisco\OneDrive\Desktop\sistema_controle_SENAI\obj\Debug\net8.0\sistema_controle_SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\OneDrive\Desktop\sistema_controle_SENAI\obj\Debug\net8.0\sistema_controle_SENAI.AssemblyInfoInputs.cache
+C:\Users\Francisco\OneDrive\Desktop\sistema_controle_SENAI\obj\Debug\net8.0\sistema_controle_SENAI.AssemblyInfo.cs
+C:\Users\Francisco\OneDrive\Desktop\sistema_controle_SENAI\obj\Debug\net8.0\sistema_controle_SENAI.csproj.CoreCompileInputs.cache
